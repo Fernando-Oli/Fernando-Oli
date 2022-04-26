@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Fernando-Oli
 - 👀 I’m interested in games and series
-- 🌱 I’m currently learning Web Developer
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me primoflro@gmail.com
