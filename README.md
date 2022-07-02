@@ -5,7 +5,7 @@
 - 🌱 Pronomes: Ele/Dele
 - 📫 Contate-me em primoflro@gmail.com
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Oli&count_private=true)
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Oli&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Oli&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Oli&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Oli&show_icons=true)
+
 
