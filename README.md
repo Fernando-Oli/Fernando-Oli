@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Fernando-Oli
-- 👀 I’m interested in games and series
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me primoflro@gmail.com
+### Olá eu sou Fernando Oliveira
+
+- 👋 Atualmente estudo na Trybe, Desenvolvimento Web
+- 👀 Estou estudando CSS, JS E HTML.
+- 🌱 Pronomes: Ele/Dele
+- 📫 Contate-me em primoflro@gmail.com
