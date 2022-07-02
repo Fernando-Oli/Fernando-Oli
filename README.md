@@ -4,8 +4,11 @@
 - 👀 Estou estudando CSS, JS E HTML.
 - 🌱 Pronomes: Ele/Dele
 - 📫 Contate-me em primoflro@gmail.com
-
+<div>
+  <a href = "https://github-readme-stats.vercel.app/api?username=Fernando-Oli&count_private=true" />
+  <a href = "https://github.com/Fernando-Oli/github-readme-stats"
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Oli&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Oli&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Oli&langs_count=8)](https://github.com/Fernando-Oli/github-readme-stats)
 
 
