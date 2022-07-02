@@ -9,6 +9,12 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Fernando-Oli&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Oli&langs_count=8"
 </div>
+<div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-
+</div>
 
