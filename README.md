@@ -16,6 +16,7 @@
   <img height = "60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 <div> 
-<a href ="https://www.linkedin.com/in/fernando1806/" target = "_blank"><img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"></a>
+  <a href="https://www.w3schools.com">Visit W3Schools</a>
+<a href ="https://www.linkedin.com/in/fernando1806/" target = "_blank">Fernando Oliveira</a>
 </div>
 
