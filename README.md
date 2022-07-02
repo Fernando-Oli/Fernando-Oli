@@ -6,7 +6,7 @@
 - 📫 Contate-me em primoflro@gmail.com
 
 <div>
-  <a href="https://beacons.ai/Fernando-Oli">
+  <a href="https://github-readme-stats.vercel.app/api?username=Fernando-Oli&hide=contribs,prs" />
   <img height="180em src=""/>
   <img height="180em src=""/
 <div>
