@@ -1,4 +1,4 @@
-### Olá! eu sou Fernando Oliveira
+### Olá! Eu sou Fernando Oliveira 👋
 
 - 👋 Atualmente estudo na Trybe, Desenvolvimento Web
 - 👀 Estou estudando CSS, JS E HTML.
