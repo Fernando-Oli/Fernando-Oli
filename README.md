@@ -1,7 +1,7 @@
 ### Olá! Eu sou Fernando Oliveira 👋
 
 - 👋 Formado na Trybe em Desevolvimento Web, atualmente estudando Engenharia de Software na Universidade Evangélica de Goiás.
-- 👀 Estou estudando CSS, JS E HTML.
+- 👀 Estou estudando C++
 - 🌱 Pronomes: Ele/Dele
 - 📫 Contate-me em primoflro@gmail.com
 
