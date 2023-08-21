@@ -6,10 +6,6 @@
 - 📫 Contate-me em primoflro@gmail.com
 
 <div>
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=Fernando-Oli&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula" />
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Oli&langs_count=8" />
-</div>
-<div>
   <img height = "20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height = "20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height = "20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
